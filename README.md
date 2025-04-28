@@ -1,4 +1,4 @@
-# TableDBManit 🗃️
+# TableDB CLI 🗃️
 
 A lightweight, SQL-like relational database engine built from scratch using Java.  
 Supports table creation, row insertion, querying, updating, deletion, and full data persistence — all through a Command-Line Interface (CLI).
